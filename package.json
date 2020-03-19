@@ -11,5 +11,8 @@
 	"framer": {
 		"id": "ec0d0ccc-1109-4557-ac96-67839cf3ecf3"
 	},
-	"author": "Tejas Gaikwad"
+	"author": "Tejas Gaikwad",
+	"dependencies": {
+		"@framer/ismael.google-maps": "^2.1.0"
+	}
 }
